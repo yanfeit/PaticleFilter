@@ -123,3 +123,6 @@ dmypy.json
 .pyre/
 .pdf
 *.pdf
+
+# javascript
+*.js
